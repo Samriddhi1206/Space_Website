@@ -17,12 +17,12 @@ const Banner2 = () => {
                     <button 
                      data-aos="fade-up" data-aos-delay="700" className='primary-button'>Learn More</button>
                     </div>
-
+                    </div>
                     <div  data-aos="zoom-in">
                     <img src={sateliteImg} alt=""
                     className='w-full sm:w-[80%] mx-auto max-h-[350px] object-cover'/>
                      
-                </div>
+               
                 </div>
             </div>
         </div>
